@@ -8,7 +8,7 @@ Just a fun app that will generate a robo friend(Robo Avatar) to any name you sea
  ### React
  
  # Previews
- <img src="cooking.jpg" height="400" >
+ <img src="robo.jpg" height="400" >
 
  
  # License
