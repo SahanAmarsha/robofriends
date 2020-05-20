@@ -1,3 +1,22 @@
+# Robo Friends App
+Just a fun app that will generate a robo friend(Robo Avatar) to any name you search.
+
+# Features
+- Just a fun app, I have built to learn React
+
+# Technologies
+ ### React
+ 
+ # Previews
+ <img src="cooking.jpg" height="400" >
+
+ 
+ # License
+ **MIT License**
+ Free Software Hell Yeah!
+
+
+# How to Start This App ->
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
